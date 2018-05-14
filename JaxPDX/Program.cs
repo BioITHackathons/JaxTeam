@@ -4,12 +4,14 @@ using Newtonsoft.Json;
 using System.Threading.Tasks;
 using System.Net.Http.Headers;
 using Newtonsoft.Json.Linq;
+using System.IO;
 
 namespace JaxPDX
 {
     class Program
     {
         private static readonly HttpClient client = new HttpClient();
+        private static string logPath = "allModelVariances.json";
 
         static void Main(string[] args)
         {
@@ -28,8 +30,11 @@ namespace JaxPDX
             var msg = await stringTask;
 
             JObject obj = JObject.Parse(msg);
+
+            JArray array = new JArray();
+
             
-            foreach(var model in obj["pdxInfo"].Children())
+            foreach (var model in obj["pdxInfo"].Children())
             {
                 var modelId = model["Model ID"];
 
@@ -37,11 +42,17 @@ namespace JaxPDX
                 var modelVarianceTask = client.GetStringAsync(varianceUri + modelId);
 
                 var modelVariance = await modelVarianceTask;
+                JObject variance = JObject.Parse(modelVariance);
 
-                Console.WriteLine(modelVariance);
+                array.Add(variance);
             }
 
-            Console.ReadKey();
+            var logWriter = System.IO.File.CreateText(logPath);
+
+            logWriter.Write(array.ToString());
+
+            logWriter.Flush();
+            logWriter = null;
         }
     }
 }
