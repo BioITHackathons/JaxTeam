@@ -13,9 +13,12 @@ This pipeline entails the following steps: <br />
 Patient has a Tumor which is a product of some mutation (which has its location in a gene). We want to associate this mutation with a domain. We want to identify the gain or loss of a mutation as it affects the protein domain. The end product is the protein domain.
 <br />
 Tumor is in a host. Tumor has a passage. 
-The original patienent has a tumor with about 5 or so fragments and these are planted into the mouse. When its extracted out is
+The original patient has a tumor with about 5 or so fragments and these are planted into the mouse. When its extracted out is
 P0.
-Extracted tumor out of the 1st mouse is a passage => P1
-Extract tumor from anther mouse P1 and plant in another mouse => P2
 <br />
-Passage has a mutation.
+Extracted tumor out of the 1st mouse is a passage => P1
+<br />Extract tumor from anther mouse P1 and plant in another mouse => P2
+<br />
+Passage has a mutation which has a genomic location.
+<br />
+We are looking for mutation in P0 that is lost in P1 or P2.
