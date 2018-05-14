@@ -1,0 +1,10 @@
+C:\Users\jtw\Source\repos\JaxPDX\JaxPDX\bin\Debug\netcoreapp1.1\JaxPDX.deps.json
+C:\Users\jtw\Source\repos\JaxPDX\JaxPDX\bin\Debug\netcoreapp1.1\JaxPDX.runtimeconfig.json
+C:\Users\jtw\Source\repos\JaxPDX\JaxPDX\bin\Debug\netcoreapp1.1\JaxPDX.runtimeconfig.dev.json
+C:\Users\jtw\Source\repos\JaxPDX\JaxPDX\bin\Debug\netcoreapp1.1\JaxPDX.dll
+C:\Users\jtw\Source\repos\JaxPDX\JaxPDX\obj\Debug\netcoreapp1.1\JaxPDX.csprojResolveAssemblyReference.cache
+C:\Users\jtw\Source\repos\JaxPDX\JaxPDX\obj\Debug\netcoreapp1.1\JaxPDX.csproj.CoreCompileInputs.cache
+C:\Users\jtw\Source\repos\JaxPDX\JaxPDX\obj\Debug\netcoreapp1.1\JaxPDX.AssemblyInfo.cs
+C:\Users\jtw\Source\repos\JaxPDX\JaxPDX\bin\Debug\netcoreapp1.1\JaxPDX.pdb
+C:\Users\jtw\Source\repos\JaxPDX\JaxPDX\obj\Debug\netcoreapp1.1\JaxPDX.dll
+C:\Users\jtw\Source\repos\JaxPDX\JaxPDX\obj\Debug\netcoreapp1.1\JaxPDX.pdb
