@@ -22,3 +22,5 @@ Extracted tumor out of the 1st mouse is a passage => P1
 Passage has a mutation which has a genomic location.
 <br />
 We are looking for mutation in P0 that is lost in P1 or P2.
+<br />
+Gene model has an ORF which has a functional protein domain, which we are interested in.
