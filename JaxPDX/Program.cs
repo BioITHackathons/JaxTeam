@@ -1,17 +1,20 @@
-﻿using System;
+﻿using Newtonsoft.Json.Linq;
 using System.Net.Http;
-using Newtonsoft.Json;
-using System.Threading.Tasks;
 using System.Net.Http.Headers;
-using Newtonsoft.Json.Linq;
-using System.IO;
+using System.Threading.Tasks;
 
 namespace JaxPDX
 {
     class Program
     {
         private static readonly HttpClient client = new HttpClient();
-        private static string logPath = "allModelVariances.json";
+
+        private static readonly string[] endpointAndJsonFileNames = new string[]{
+            "modelVariation",
+            "modelHistology",
+            "modelCNV",
+            "modelExpression"
+        };
 
         static void Main(string[] args)
         {
@@ -25,34 +28,44 @@ namespace JaxPDX
                 new MediaTypeWithQualityHeaderValue("application/json"));
 
             var stringTask = client.GetStringAsync("http://tumor.informatics.jax.org/PDXInfo/JSONData.do?allModels");
-            var varianceUri = "http://tumor.informatics.jax.org/PDXInfo/JSONData.do?modelVariation=";
+            var baseJsonUri = "http://tumor.informatics.jax.org/PDXInfo/JSONData.do?";
 
             var msg = await stringTask;
 
             JObject obj = JObject.Parse(msg);
 
-            JArray array = new JArray();
+            JArray[] arrays = new JArray[]{
+                new JArray(),
+                new JArray(),
+                new JArray(),
+                new JArray()
+            };
 
-            
             foreach (var model in obj["pdxInfo"].Children())
             {
                 var modelId = model["Model ID"];
 
-                // use the model ID to get the variance
-                var modelVarianceTask = client.GetStringAsync(varianceUri + modelId);
+                for (int ii = 0; ii < arrays.Length; ii++)
+                {
+                    // use the model ID to get the variance
+                    var modelJsonTask = client.GetStringAsync(baseJsonUri + endpointAndJsonFileNames[ii] + "=" + modelId);
 
-                var modelVariance = await modelVarianceTask;
-                JObject variance = JObject.Parse(modelVariance);
+                    var modelDetailJson = await modelJsonTask;
+                    JObject modelDetail = JObject.Parse(modelDetailJson);
 
-                array.Add(variance);
+                    arrays[ii].Add(modelDetail);
+                }
             }
 
-            var logWriter = System.IO.File.CreateText(logPath);
+            for (int jj = 0; jj < endpointAndJsonFileNames.Length; jj++)
+            {
+                var logWriter = System.IO.File.CreateText(endpointAndJsonFileNames[jj] + ".json");
+                
+                logWriter.Write(arrays[jj].ToString());
 
-            logWriter.Write(array.ToString());
-
-            logWriter.Flush();
-            logWriter = null;
+                logWriter.Flush();
+                logWriter = null;
+            }
         }
     }
 }

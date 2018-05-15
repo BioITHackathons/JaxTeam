@@ -1,0 +1,2576 @@
+[
+  {
+    "pdxCNV": {
+      "modelID": "TM00018",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00021",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00024",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00026",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00031",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00037",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00039",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00013",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00016",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00020",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00022",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00001",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00014",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00015",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00023",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00025",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00054",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00055",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00072",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00075",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00064",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00065",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00070",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00073",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00076",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00080",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00091",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00097",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00099",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00051",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00058",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00060",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00062",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00067",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00047",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00057",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00059",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00061",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00063",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00077",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00074",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00078",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00084",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00093",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00113",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00167",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00178",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00185",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00135",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00139",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00089",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00098",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00103",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00137",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00090",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00096",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00107",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00112",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00213",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00233",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00157",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00165",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00183",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00184",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00134",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00136",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00145",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00168",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00186",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00192",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00256",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00273",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00274",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00280",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00282",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00283",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00302",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00304",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00305",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00312",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00327",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00164",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00170",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00172",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00176",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00188",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00203",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00206",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00226",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00246",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00253",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00193",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00194",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00199",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00202",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00204",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00208",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00214",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00219",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00330",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00333",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00335",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00339",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00351",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00355",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00366",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00275",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00279",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00298",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00308",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00190",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00196",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00198",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00212",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00222",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00229",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00376",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00388",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00259",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00276",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00311",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00324",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00231",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00244",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00263",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00269",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00303",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00317",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00334",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00345",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00358",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00368",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00375",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00387",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00307",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00309",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00316",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00319",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00322",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00356",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00360",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00372",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00381",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00702",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00847",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00877",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00889",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00390",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00352",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00373",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00386",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00922",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00927",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01039",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01043",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01048",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00832",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01063",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01076",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01085",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01087",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01098",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01100",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00849",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00860",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01120",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01127",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01135",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01137",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01149",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00888",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00911",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00913",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01220",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01243",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00916",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00928",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00929",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00931",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00943",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01258",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01303",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01340",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01344",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00999",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01007",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00697",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00784",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01400",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01427",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01031",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00694",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01441",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01053",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01060",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00842",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00857",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01498",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01510",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01092",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00862",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00884",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00873",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00881",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01117",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01119",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01125",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01148",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01555",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01571",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01155",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01173",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00910",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00920",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00921",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01619",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00887",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00896",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00914",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01215",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01234",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01628",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01244",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01278",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00930",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00939",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00958",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01302",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01325",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00926",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00945",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00964",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01355",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000092712",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000093018",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00991",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00993",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01002",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01386",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01404",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000095054",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01423",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00977",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM00980",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096053",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096828",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096878",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096913",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096931",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096958",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000099207",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01442",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01443",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01462",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000099761",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01044",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01045",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01075",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01079",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01086",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01476",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01503",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01509",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000100672",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000101005",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000101866",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01014",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01533",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01557",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01565",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01090",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01096",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01121",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01612",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01618",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000102680",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01029",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01030",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01130",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01144",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01168",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01171",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01141",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01145",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01634",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000077591",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000077636",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000077712",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000077960",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106529",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106531",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106532",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106565",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106871",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01225",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01231",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01239",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01160",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000078336",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000078366",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000078604",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000078673",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106949",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000108157",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01264",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01267",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01188",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01212",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000079378",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01353",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01237",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01245",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01357",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01373",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01391",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096652",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096837",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096869",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096896",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096922",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096940",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096976",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01263",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01273",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01284",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000099706",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01426",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01311",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01448",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01341",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01346",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01348",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01354",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000100556",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000101173",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01495",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01500",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01381",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01522",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01545",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01406",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01420",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01578",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000102630",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000103366",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000103634",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000104117",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000104518",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01446",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01457",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01464",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01617",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000105934",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106134",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106141",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106143",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106528",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106536",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01479",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01513",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106560",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000107831",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000108931",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01629",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000077451",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000077608",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000077973",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01517",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000078984",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01563",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01569",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01594",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000080230",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000080739",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000093555",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01611",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "TM01632",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000093572",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000093933",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000094100",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000094290",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096904",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096949",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000097253",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000098169",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000099257",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000094707",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000094918",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000100675",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000101121",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000101220",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000095633",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000095635",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096845",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096967",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000096994",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000101328",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000102184",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000099318",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000099327",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000099873",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000099999",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000100365",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000100646",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000100674",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000101006",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000101329",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000101892",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000102326",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106124",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106132",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106172",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106527",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106530",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106534",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106535",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000103917",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000104096",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000104256",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000104314",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000104720",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000105006",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106566",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000109079",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000105561",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106526",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106533",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000106569",
+      "samples": []
+    }
+  },
+  {
+    "pdxCNV": {
+      "modelID": "J000107333",
+      "samples": []
+    }
+  }
+]
