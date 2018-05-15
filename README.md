@@ -25,5 +25,8 @@ We are looking for mutation in P0 that is lost in P1 or P2.
 <br />
 Gene model has an ORF which translates into a protein which has a functional protein domain, and this which we are interested in as an end result of our predictions.
 
-Here is the model:
+Here is a pseudo sketch of the mode:
 <img src="model_jaxteam1.jpg">
+
+Here is a relational model:
+<img src="jaxteam_datamodel_1.png">
