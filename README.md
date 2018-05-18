@@ -30,3 +30,5 @@ Here is a pseudo sketch of the mode:
 
 Here is a relational model:
 <img src="jaxteam_datamodel_1.png">
+<a href="BioITWorld2018HackathonJAXTeamV2.pdf">Click here</a> for a PDF of the presentation explaining this project:
+<a href="BioITWorld2018HackathonJAXTeamV2.pdf">BioITWorld 2018 Hackathon JAX Team Presentation</a>
