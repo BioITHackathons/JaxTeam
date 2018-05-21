@@ -9,23 +9,11 @@ This pipeline entails the following steps: <br />
 * Data Transformation to RDF <br />
 * FAIR Evaluation of Tool <br />
 
-# Model
-Patient has a Tumor which is a product of some mutation (which has its location in a gene). We want to associate this mutation with a domain. We want to identify the gain or loss of a mutation as it affects the protein domain. The end product is the protein domain.
-<br />
-Tumor is in a host. Tumor has a passage. 
-The original patient has a tumor with about 5 or so fragments and these are planted into the mouse. When its extracted out is
-P0.
-<br />
-Extracted tumor out of the 1st mouse is a passage => P1
-<br />Extract tumor from anther mouse P1 and plant in another mouse => P2
-<br />
-Passage has a mutation which has a genomic location.
-<br />
-We are looking for mutation in P0 that is lost in P1 or P2.
-<br />
-Gene model has an ORF which translates into a protein which has a functional protein domain, and this which we are interested in as an end result of our predictions.
+# Use Case
 
-Here is a pseudo sketch of the mode:
+Specifically using the public JAX PDX and Mouse TUmor Biology databses, we wish to identify human cancer mutations (p53) that are lost across engrafted tumor passages in mice and to see if the remaining mutations are enriched in a particular protein domain.
+
+Here is the minimal viable data model for this mouse:
 <img src="model_jaxteam1.jpg">
 
 Here is a relational model:
