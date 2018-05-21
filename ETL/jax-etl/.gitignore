@@ -1,0 +1,11 @@
+/build
+/bin
+/out
+/.gradle
+/.settings
+/.classpath
+/.project
+.idea
+jax-etl.iml
+Jax-etl-ipr
+Jax-etl.iws
