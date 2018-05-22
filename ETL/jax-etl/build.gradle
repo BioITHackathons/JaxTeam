@@ -1,0 +1,36 @@
+apply plugin: 'groovy'
+apply plugin: 'application'
+apply plugin: 'idea'
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.4.13'
+    compile ('org.freemarker:freemarker:2.3.28')
+    compile('org.slf4j:slf4j-simple:1.5.8')
+    compile ('commons-codec:commons-codec:1.9')
+    compile ('commons-cli:commons-cli:1.2')
+
+    testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
+}
+
+// In this section you declare where to find the dependencies of your project
+repositories {
+    // Use jcenter for resolving your dependencies.
+    // You can declare any Maven/Ivy/file repository here.
+    jcenter()
+}
+
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 1.8
+
+group = "com.jax.bioit.etl"
+mainClassName = 'com.jax.bioit.etl.JaxETL'
+
+applicationDistribution.from("${rootProject.projectDir}/") {
+	include "jax_patient.ftl"
+}
+
+run {
+    if (project.hasProperty("appArgs")) {
+        args Eval.me(appArgs)
+    }
+}
